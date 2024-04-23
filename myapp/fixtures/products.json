@@ -1,0 +1,31 @@
+
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Couch",
+        "price": "79.99",
+        "description": "Will hold you up and keep you comfortable."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Radiator",
+        "price": "299.99",
+        "description": "Keeps your care running cool."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Microwave",
+        "price": "49.99",
+        "description": "Cooks your food quick."
+      }
+    }
+  ]
+  
